@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Demo_Shop_Book</string>
+    <string name="kham_pha">Khám phá</string>
+    <string name="the_loai">Thể loại</string>
+    <string name="tim_kiem">Tìm sách</string>
+    <string name="thong_bao">Thông báo</string>
+    <string name="menu">Menu</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

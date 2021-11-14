@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ProjectAndroid/Demo_Shop_Book/app/src/main/res/drawable/category_selector.xml" value="0.1125" />
+        <entry key="..\:/ProjectAndroid/Demo_Shop_Book/app/src/main/res/drawable/home_selector.xml" value="0.1125" />
+        <entry key="..\:/ProjectAndroid/Demo_Shop_Book/app/src/main/res/drawable/menu_selector.xml" value="0.1125" />
+        <entry key="..\:/ProjectAndroid/Demo_Shop_Book/app/src/main/res/drawable/notification_selector.xml" value="0.1125" />
+        <entry key="..\:/ProjectAndroid/Demo_Shop_Book/app/src/main/res/drawable/search_selector.xml" value="0.1125" />
+        <entry key="..\:/ProjectAndroid/Demo_Shop_Book/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/ProjectAndroid/Demo_Shop_Book/app/src/main/res/layout/fragment_category_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/ProjectAndroid/Demo_Shop_Book/app/src/main/res/layout/fragment_home_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/ProjectAndroid/Demo_Shop_Book/app/src/main/res/layout/fragment_home_fragment2.xml" value="0.20416666666666666" />
+        <entry key="..\:/ProjectAndroid/Demo_Shop_Book/app/src/main/res/layout/fragment_menu_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/ProjectAndroid/Demo_Shop_Book/app/src/main/res/layout/fragment_notification_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/ProjectAndroid/Demo_Shop_Book/app/src/main/res/layout/fragment_search_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/ProjectAndroid/Demo_Shop_Book/app/src/main/res/menu/menu.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
